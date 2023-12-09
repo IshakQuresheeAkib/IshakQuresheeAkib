@@ -10,7 +10,7 @@
 
 # ⚡ Current Status
 
-<div style='display:grid; grid-template-columns:1fr 1fr'>
+<div style='display:grid; grid-template-columns: auto auto; gap:10px'>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IshakQuresheeAkib&theme=ayu_mirage)
 
@@ -27,11 +27,11 @@
 
 # ⚡ Language and tools
 
-<p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,git,github,firebase,nodejs,expressjs,mongodb" />
   </a>
-</p>
+
 
 <br>
 <br>

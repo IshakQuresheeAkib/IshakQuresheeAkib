@@ -17,8 +17,8 @@ I am a Front-end Developer on a journey to Full Stack proficiency. Currently mas
 ## Contact with me: (akibqureshee11@gmail.com ) 
 <br>
 <br>
-# ⚡ Current Status
 
+# ⚡ Current Status
 
 
 <div style='display:flex;'>

@@ -57,7 +57,7 @@
 
 ## 1. Car Canvas
 
-Occasion Alchemy is a project where an user can book for arrangement different types of social programs such as weddings, birthdays, Anniversaries, Engagement Parties, Retirement Parties, Baby showers etc. 
+Car Canvas is a project where user can see a Wide Array of Cars from Leading Global Brands: Visitors can easily browse and explore a diverse selection of cars from renowned automobile manufacturers worldwide.
 
 #### Technologies
 <li>Frontend: React.js, Tailwind CSS, keep ui
@@ -70,8 +70,8 @@ Occasion Alchemy is a project where an user can book for arrangement different t
 
 ## 2. NourishNet
 
-NourishNet is a Community Food Sharing and Surplus
-Reduction Platform 
+NourishNet is a Community Food Sharing and Surplus Reduction Platform,it offers a user-friendly interface where users can view their donation and request history, manage their profile, and track ongoing donation or request statuses.
+ 
 
 #### Technologies
 <li>Frontend: React.js, Tailwind CSS, keep ui

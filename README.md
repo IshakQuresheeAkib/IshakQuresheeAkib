@@ -9,8 +9,14 @@
 <br>
 <hr>
 
-I am a Front-end Developer on a journey to Full Stack proficiency. Currently mastering the MERN stack—MongoDB, Express.js, React.js, Node.js. Passionate about creating seamless user experiences and expanding expertise to tackle end-to-end development challenges.
 
+# ⚡ Overview
+
+I am a Front-end Developer on a journey to Full Stack proficiency. Currently mastering the MERN stack—MongoDB, Express.js, React.js, Node.js. Passionate about creating seamless user experiences and expanding expertise to tackle end-to-end development challenges.
+<br>
+## Contact with me: <akibqureshee11@gmail.com>
+<br>
+<br>
 # ⚡ Current Status
 
 
@@ -47,14 +53,7 @@ I am a Front-end Developer on a journey to Full Stack proficiency. Currently mas
 <br>
 <br>
 
-# ⚡ Overview
 
-- 🔭 I’m currently working on Front End Development
-- 🌱 I’m currently learning MERN Stack Development
-## Contact with me: <akibqureshee11@gmail.com>
-
-<br>
-<br>
 
 # ⚡ My Projects
 

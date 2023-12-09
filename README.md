@@ -10,17 +10,25 @@
 
 # ⚡ Current Status
 
-<div style='display:grid; grid-template-columns: auto auto'>
+
+
+<div style='display:flex;'>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IshakQuresheeAkib&theme=ayu_mirage)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IshakQuresheeAkib&theme=ayu_mirage) 
+  
+</div>
+
+<div style='display:flex;'>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IshakQuresheeAkib&theme=ayu_mirage&utcOffset=8)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IshakQuresheeAkib&theme=ayu_mirage)
-
+  
 </div>
+
+
 
 <br>
 <br>

@@ -3,14 +3,14 @@
 
 
 
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/IshakQuresheeAkib/IshakQuresheeAkib/main/images/github-cover.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!]([https://raw.githubusercontent.com/IshakQuresheeAkib/IshakQuresheeAkib/main/images/github-cover.png](https://raw.githubusercontent.com/IshakQuresheeAkib/IshakQuresheeAkib/main/images/banner.png) "San Juan Mountains")
 
 <br>
 <br>
 
 # ⚡ Current Status
 
-<div style='display:grid; grid-template-columns: auto auto; gap:10px'>
+<div style='display:grid; grid-template-columns: auto auto'>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IshakQuresheeAkib&theme=ayu_mirage)
 

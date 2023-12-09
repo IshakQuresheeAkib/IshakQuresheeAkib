@@ -7,6 +7,9 @@
 
 <br>
 <br>
+<hr>
+
+Front-end Developer on a journey to Full Stack proficiency. Currently mastering the MERN stack—MongoDB, Express.js, React.js, Node.js. Passionate about creating seamless user experiences and expanding expertise to tackle end-to-end development challenges.
 
 # ⚡ Current Status
 

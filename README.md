@@ -3,7 +3,7 @@
 
 
 
-![The San Juan Mountains are beautiful!]([https://raw.githubusercontent.com/IshakQuresheeAkib/IshakQuresheeAkib/main/images/github-cover.png](https://raw.githubusercontent.com/IshakQuresheeAkib/IshakQuresheeAkib/main/images/banner.png) "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/IshakQuresheeAkib/IshakQuresheeAkib/main/images/banner.png) "San Juan Mountains")
 
 <br>
 <br>

@@ -1,72 +1,51 @@
 
-
-
-
-
 ![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/IshakQuresheeAkib/IshakQuresheeAkib/main/images/banner.png)
-
-<br>
-<br>
 <hr>
-
-
-# ⚡ Overview
-
-I'm a Front-end Developer with a strong passion for mastering the MERN stack. Despite pursuing Zoology in undergrad, my true love is software development. Recently, I completed a complete web development course at Programming Hero.
-<br>
-## Contact with me: (akibqureshee11@gmail.com ) 
-<br>
 <br>
 
-# ⚡ Current Status
 
+# 🙋🏻‍♂️ Hi! **I'm Ishak Qureshee Akib**,
+A Front-end Developer with a strong passion for mastering the MERN stack. Despite pursuing Zoology in undergrad, my true love is software development. Recently, I completed a web development course at Programming Hero.
+<br>
+## How to reach me: [akibqureshee11@gmail.com](mailto:akibqureshee11@gmail.com "Email Me") 
+<br>
 
-<div style='display:flex;'>
+# 🎯 Language and tools
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,git,github,firebase,nodejs,expressjs,mongodb" />
+  </a>
+<hr>
+<br>
+
+# 🎯 Current Status
+
+<div style='display:flex; flex-direction: row; flex-wrap:wrap; justify-content: center; align-items:center; gap:10px'>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IshakQuresheeAkib&theme=ayu_mirage)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IshakQuresheeAkib&theme=ayu_mirage) 
-  
-</div>
-
-<div style='display:flex;'>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IshakQuresheeAkib&theme=ayu_mirage&utcOffset=8)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IshakQuresheeAkib&theme=ayu_mirage)
   
 </div>
-
-
-
-<br>
-<br>
-
-# ⚡ Language and tools
-
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,git,github,firebase,nodejs,expressjs,mongodb" />
-  </a>
-
-
-<br>
+<hr>
 <br>
 
 
-
-# ⚡ My Projects
+# 🎯 My Projects
 
 ## 1. Car Canvas
 
 Car Canvas is a project where user can see a Wide Array of Cars from Leading Global Brands: Visitors can easily browse and explore a diverse selection of cars from renowned automobile manufacturers worldwide.
 
-#### Technologies
-<li>Frontend: React.js, Tailwind CSS, keep ui
+#### Technologies:
+<li>Frontend: Material Tailwind, React.js
 <li>Backend: Node.js, Express.js
 <li>Database: MongoDB
 
-### Live Link: [Car Canvas](https://car-canvas.web.app "Car Canvas Client side") 
+#### Client Side: [Car Canvas Client Repo](https://github.com/IshakQuresheeAkib/car-canvas "Car Canvas Client side") 
+#### Live Link: [Car Canvas](https://car-canvas.web.app "Car Canvas Live Link") 
 
 <br>
 
@@ -74,26 +53,27 @@ Car Canvas is a project where user can see a Wide Array of Cars from Leading Glo
 
 NourishNet is a Community Food Sharing and Surplus Reduction Platform,it offers a user-friendly interface where users can view their donation and request history, manage their profile, and track ongoing donation or request statuses.
  
-
-#### Technologies
-<li>Frontend: React.js, Tailwind CSS, keep ui
+#### Technologies:
+<li>Frontend: DaisyUI, React.js 
 <li>Backend: Node.js, Express.js
 <li>Database: MongoDB
 
-### Live Link: [NourishNet](https://nourish-net.web.app/ "NourishNet Client side") 
+#### Client Side : [NourishNet Cliet Repo](https://github.com/IshakQuresheeAkib/nourish-net "NourishNet Client side")
+#### Live Link: [NourishNet ✨](https://nourish-net.web.app/ "NourishNet Live Link") 
 
 <br>
 
 ## 3. Concord
 
-Concord is a Matrimony website where people can choose her
-life partner.
+Concord is a Matrimony website where people can choose her life partner.
 
-#### Technologies
-<li>Frontend: React.js, Tailwind CSS, keep ui
+#### Technologies:
+<li>Frontend: Ant Design, React.js
 <li>Backend: Node.js, Express.js
 <li>Database: MongoDB
 
-### Live Link: [Concord](https://assignment-12-847d7.web.app "Concord Client side") 
+#### Client Side : [Concord Cliet Repo](https://github.com/IshakQuresheeAkib/concord "Concord Client side") 
+#### Live Link: [Concord](https://assignment-12-847d7.web.app "Concord Live Link") 
 
 <br>
+<hr>

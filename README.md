@@ -20,9 +20,7 @@ A Front-end Developer with a strong passion for mastering the MERN stack. Despit
 ###
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IshakQuresheeAkib&theme=nord_bright)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IshakQuresheeAkib&theme=nord_bright)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IshakQuresheeAkib&theme=nord_bright&utcOffset=8)
 
 <hr>

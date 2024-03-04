@@ -12,7 +12,7 @@
 
 # ⚡ Overview
 
-I am a Front-end Developer on a journey to Full Stack proficiency. Currently mastering the MERN stack—MongoDB, Express.js, React.js, Node.js. Passionate about creating seamless user experiences and expanding expertise to tackle end-to-end development challenges.
+I'm a Front-end Developer with a strong passion for mastering the MERN stack. Despite pursuing Zoology in undergrad, my true love is software development. Recently, I completed a complete web development course at Programming Hero.
 <br>
 ## Contact with me: (akibqureshee11@gmail.com ) 
 <br>

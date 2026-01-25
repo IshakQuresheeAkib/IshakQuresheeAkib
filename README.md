@@ -3,7 +3,6 @@
 <hr>
 
 # 🙋🏻‍♂️ Hi! I'm [Ishak Qureshee Akib](https://ishak-qureshee-akib.netlify.app/ "Portfolio")  ,
-A Front-end Developer with a strong passion for mastering the MERN stack. Despite pursuing Zoology in undergrad, my true love is software development. Recently, I completed a web development course at Programming Hero.
 <br>
 
 ## How to reach me: [akibqureshee11@gmail.com](mailto:akibqureshee11@gmail.com "Email Me") 

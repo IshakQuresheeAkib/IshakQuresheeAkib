@@ -4,6 +4,7 @@
 
 # 🙋🏻‍♂️ Hi! I'm [Ishak Qureshee Akib](https://ishak-qureshee-akib.netlify.app/ "Portfolio")  ,
 <br>
+I'm a MERN Stack Developer with a expertise in building dynamic and responsive web applications. I have 1.5 years+ experience working in a software agency located in NY, USA. I worked remotely as a front end developer, having hands on experience creating custom wordpress theme. Created multiple real world projects using React.js, Next.js, Typescript and Supabase etc. I keen to learn new technologies and explore new things in the tech world.
 
 ## How to reach me: [akibqureshee11@gmail.com](mailto:akibqureshee11@gmail.com "Email Me") 
 

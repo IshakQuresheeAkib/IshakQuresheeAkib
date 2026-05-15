@@ -1,57 +1,92 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Ishak%20Qureshee%20Akib%20&reversal=false&textBg=false&fontAlign=49&animation=fadeIn&descAlign=26&descAlignY=57&fontColor=white&fontAlignY=31&desc=Full%20stack%20Developer&descSize=30&stroke=b678c4" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=36BCF7FF&text=Ishak%20Qureshee%20Akib%20&reversal=false&textBg=false&fontAlign=49&animation=twinkling&descAlign=26&descAlignY=57&fontColor=FFFFFF&fontAlignY=31&desc=Full%20stack%20Developer&descSize=30&stroke=36BCF7FF" width="100%" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="250" align="right" alt="Tech Stack floating">
 
   <div align="left">
-    <h2>🙋🏻‍♂️ Hi! I'm <a href="https://ishak-qureshee-akib.netlify.app/" style="color:#F9794D;">Ishak Qureshee Akib</a></h2>
     <p>I'm a <b>MERN Stack Developer</b> with expertise in building modern, responsive, and production-ready web applications. I have 1.5+ years of experience working remotely in a software agency, Lexaeon (NY, USA).</p>
     <p>Having hands-on experience creating custom WordPress themes, I have created multiple real-world projects using <b>React.js, Next.js, TypeScript, and Supabase</b>.</p>
     <p>I am keen to learn new technologies and explore new things in the tech world! ✨</p>
     <br/>
-    <p>📫 <b>How to reach me:</b> <a href="mailto:akibqureshee11@gmail.com"><img src="https://img.shields.io/badge/Email-akibqureshee11%40gmail.com-5795CC?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
+    <p style="display: flex; align-items: center; gap: 8px;">
+      <b>📫 How to reach me:</b> 
+      <a href="mailto:akibqureshee11@gmail.com"><img src="https://img.shields.io/badge/Email-akibqureshee11%40gmail.com-5795CC?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align: middle;" /></a>
+    </p>
   </div>
 </div>
 <br clear="both"/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
 </div>
 
-<h2 align="center" style="color:#5795CC;">🚀 Languages & Tools</h2>
-
 <div align="center">
-  <a href="https://github.com/YuheshPandian/ICONIC">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,git,github,firebase,nodejs,expressjs,mongodb&theme=light" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Asimovian&size=28&letterSpacing=2&pause=1000&vCenter=true&width=435&height=40&lines=Languages+%26+Tools&color=5795CC" alt="Typing SVG" />
   </a>
 </div>
 
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Back-end & DB</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" /> 
+  </kbd>
+  <br>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
+
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
 </div>
 
-<h2 align="center" style="color:#5795CC;">📈 Current Status</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Asimovian&size=28&letterSpacing=2&pause=1000&vCenter=true&width=435&height=40&lines=Current+Status&color=5795CC" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IshakQuresheeAkib&theme=transparent" height="150"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IshakQuresheeAkib&theme=transparent" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IshakQuresheeAkib&theme=nord_dark" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IshakQuresheeAkib&theme=nord_dark" height="150" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
 </div>
 
-<h2 align="center" style="color:#F9794D;">💻 Featured Projects</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Asimovian&size=28&letterSpacing=2&pause=1000&vCenter=true&width=435&height=40&lines=Featured+Projects&color=F9794D" alt="Typing SVG" />
+  </a>
+</div>
 
 <table width="100%" style="border-collapse: collapse; background: rgba(87, 149, 204, 0.05); backdrop-filter: blur(10px); border: 1px solid #5795CC; border-radius: 10px;">
   <tr>
@@ -113,6 +148,6 @@
 
 <br/>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="250" alt="Happy Coding">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" alt="Happy Coding">
 </div>
 

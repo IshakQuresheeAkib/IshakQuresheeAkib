@@ -27,7 +27,7 @@
 
 <p style="display: flex; justify-content:center" align="center">
   <kbd style="padding: 5px 20px">
-    <kbd style="font-size: 20px; padding: 10px; margin: 10px auto">Front-end</kbd>
+    <kbd style="font-size: 24px; padding: 10px; margin: 10px auto">Front-end</kbd>
     <br>
     <br>
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" /> 
@@ -40,8 +40,8 @@
     <img width="40px" src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" title="TanStack Query" />
     <img width="40px" src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/favicon.ico" title="Zustand" />
   </kbd>
-  <kbd style="padding: 5px 20px; margin:0 10px">
-    <kbd style="font-size: 20px; padding: 10px; margin: 10px auto">Back-end & DB</kbd>
+  <kbd style="padding: 5px 20px; margin:0 30px">
+    <kbd style="font-size: 24px; padding: 10px; margin: 10px auto">Back-end & DB</kbd>
     <br>
     <br>
     <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" />
@@ -52,7 +52,7 @@
     <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" title="GraphQL" />
   </kbd>
   <kbd style="padding: 5px 20px">
-    <kbd style="font-size: 20px; padding: 10px; margin: 10px auto">Tools</kbd>
+    <kbd style="font-size: 24px; padding: 10px; margin: 10px auto">Tools</kbd>
     <br>
     <br>
     <img width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" /> 

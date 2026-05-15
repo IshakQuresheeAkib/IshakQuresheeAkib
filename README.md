@@ -20,50 +20,49 @@
 <br clear="both"/>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=ubuntu&size=32&letterSpacing=1&pause=2000&vCenter=true&width=335&height=50&lines=Languages+%26+Tools&color=5795CC" alt="Typing SVG" />
   </a>
 </div>
 
 <p style="display: flex; justify-content:center" align="center">
-  <kbd>
-    <kbd>Front-end</kbd>
+  <kbd style="padding: 5px 20px">
+    <kbd style="font-size: 20px; padding: 10px; margin: 10px auto">Front-end</kbd>
     <br>
     <br>
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" /> 
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" /> 
+    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
+    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React.js" />
+    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next.js" />
+    <img width="40px" src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" title="TanStack Query" />
+    <img width="40px" src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/favicon.ico" title="Zustand" />
   </kbd>
-  <kbd>
-    <kbd>Back-end & DB</kbd>
+  <kbd style="padding: 5px 20px; margin:0 10px">
+    <kbd style="font-size: 20px; padding: 10px; margin: 10px auto">Back-end & DB</kbd>
     <br>
     <br>
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" />
+    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="Express.js" />
+    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" />
+    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" title="Firebase" />
+    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" title="Supabase" />
+    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" title="GraphQL" />
   </kbd>
-  <kbd>
-    <kbd>Tools</kbd>
+  <kbd style="padding: 5px 20px">
+    <kbd style="font-size: 20px; padding: 10px; margin: 10px auto">Tools</kbd>
     <br>
     <br>
-    <img width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" /> 
+    <img width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" /> 
+    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" />
+    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" title="WordPress" /> 
   </kbd>
   <br>
 </p>
 
 <br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -79,8 +78,27 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=ubuntu&size=32&letterSpacing=1&pause=2000&vCenter=true&width=335&height=50&lines=Experience&color=5795CC" alt="Typing SVG" />
+  </a>
 </div>
+
+<table width="90%" style="border-collapse: collapse; background: rgba(87, 149, 204, 0.05); backdrop-filter: blur(10px); border: 1px solid #5795CC; border-radius: 10px;" align="center">
+  <tr>
+    <td width="100%" style="padding: 20px;">
+      <h3 style="color:#5795CC; margin-bottom: 5px; font-size: 22px;">💼 Front End Developer @ Lexaeon</h3>
+      <p style="margin-top: 0; color: #F9794D; font-weight: 500;">📅 June 2024 – Jan 2026 | 📍 NY, USA (Remote)</p>
+      <ul>
+        <li style="margin-bottom: 8px;">Converted Figma designs into responsive, pixel-perfect, production-ready web applications using <b>Next.js</b> and <b>TypeScript</b>, closely aligning with UI/UX details.</li>
+        <li style="margin-bottom: 8px;">Built and maintained modern front-end features with a strong focus on performance, scalability, maintainability, and cross-browser compatibility.</li>
+        <li style="margin-bottom: 8px;">Collaborated with design and backend teams in a remote environment, participated in code reviews, and upheld quality standards.</li>
+        <li style="margin-bottom: 8px;">Created custom <b>WordPress</b> themes with attention to accessibility and SEO best practices.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">

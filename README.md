@@ -7,12 +7,12 @@
 
   <div align="left" style="width: 85%;">
     <br/>
-    <p style="font-size: 16px; line-height: 1.6;">I'm a <b>MERN Stack Developer</b> with expertise in building modern, responsive, and production-ready web applications. I have 1.5+ years of experience working remotely in a software agency, Lexaeon (NY, USA).</p>
-    <p style="font-size: 16px; line-height: 1.6;">Having hands-on experience creating custom WordPress themes, I have created multiple real-world projects using <b>React.js, Next.js, TypeScript, and Supabase</b>.</p>
-    <p style="font-size: 16px; line-height: 1.6;">I am keen to learn new technologies and explore new things in the tech world! ✨</p>
+    <p style="font-size: 16px; line-height: 1.6;">I'm a <b>MERN Stack Developer</b> with expertise in building pixel-perfect, responsive, and production-ready web applications. I have 1.5+ years of experience working remotely in a software agency, Lexaeon (NY, USA).</p>
+    <p style="font-size: 16px; line-height: 1.6;">Having hands-on experience creating modern, scalable, high-performant web applications using <b> React.js, Next.js and TypeScript, </b> closely aligning with UI/UX details. I built and maintained modern front-end features with a strong focus on performance, scalability, maintainability, and cross-browser compatibility. I worked closely with design and backend teams in a remote environment to integrate RESTful APIs that connect React components to backend services.
+.</p>
+    <p style="font-size: 16px; line-height: 1.6;">Now, I'm exploring new oppuchunities and always learning mood on! ✨</p>
     <br/>
     <p style="display: flex; align-items: center; gap: 8px; font-size: 16px;">
-      <b>📫 How to reach me:</b> 
       <a href="mailto:akibqureshee11@gmail.com"><img src="https://img.shields.io/badge/Email-akibqureshee11%40gmail.com-5795CC?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align: middle;" /></a>
     </p>
   </div>

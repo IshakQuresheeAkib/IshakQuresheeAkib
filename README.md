@@ -10,7 +10,7 @@
     <p style="font-size: 16px; line-height: 1.6;">I'm a <b>MERN Stack Developer</b> with expertise in building pixel-perfect, responsive, and production-ready web applications. I have 1.5+ years of experience working remotely in a software agency, Lexaeon (NY, USA).</p>
     <p style="font-size: 16px; line-height: 1.6;">Having hands-on experience creating modern, scalable, high-performant web applications using <b> React.js, Next.js and TypeScript, </b> closely aligning with UI/UX details. I built and maintained modern front-end features with a strong focus on performance, scalability, maintainability, and cross-browser compatibility. I worked closely with design and backend teams in a remote environment to integrate RESTful APIs that connect React components to backend services.
 .</p>
-    <p style="font-size: 16px; line-height: 1.6;">Now, I'm exploring new oppuchunities and always learning mood on! ✨</p>
+    <p style="font-size: 16px; line-height: 1.6;">Now, I'm exploring new opportunities and always learning something new! ✨</p>
     <br/>
     <p style="display: flex; align-items: center; gap: 8px; font-size: 16px;">
       <a href="mailto:akibqureshee11@gmail.com"><img src="https://img.shields.io/badge/Email-akibqureshee11%40gmail.com-5795CC?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align: middle;" /></a>

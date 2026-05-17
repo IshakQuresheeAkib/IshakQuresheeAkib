@@ -110,7 +110,7 @@
 <table width="90%" style="border-collapse: collapse; background: rgba(249, 121, 77, 0.05); backdrop-filter: blur(10px); border: 1px solid #5795CC; border-radius: 10px;" align="center">
   <tr>
     <td width="70%">
-      <h3 style="color:#5795CC;">💑 3. Concord</h3>
+      <h3 style="color:#5795CC;">💑 1. Concord</h3>
       <p>A responsive matrimony website allowing users to explore and choose their life partner.</p>
       <ul>
         <li><b>Frontend:</b> Ant Design, React.js</li>
@@ -132,7 +132,7 @@
       <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="220" alt="Coding Vibe">
     </td>
     <td width="70%">
-      <h3 style="color:#5795CC;">🚗 1. Car Canvas</h3>
+      <h3 style="color:#5795CC;">🚗 2. Car Canvas</h3>
       <p>A platform where users can explore a wide array of cars from leading global brands globally.</p>
       <ul>
         <li><b>Frontend:</b> Material Tailwind, React.js</li>
@@ -149,7 +149,7 @@
 <table width="90%" style="border-collapse: collapse; background: rgba(87, 149, 204, 0.05); backdrop-filter: blur(10px); border: 1px solid #5795CC; border-radius: 10px;" align="center">
   <tr>
     <td width="70%">
-      <h3 style="color:#5795CC;">🍲 2. NourishNet</h3>
+      <h3 style="color:#5795CC;">🍲 3. NourishNet</h3>
       <p>A community food sharing and surplus reduction platform with donation management features.</p>
       <ul>
         <li><b>Frontend:</b> DaisyUI, React.js</li>

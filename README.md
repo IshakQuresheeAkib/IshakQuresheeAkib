@@ -121,7 +121,7 @@
   <tr>
     <td width="70%">
       <h3 style="color:#5795CC;">💍 1. Concord — Matrimony Platform (MERN Stack)</h3>
-      <p>A responsive full-stack MERN matrimony platform with role-based access control (RBAC) with JWT-secured authentication.</p>
+      <p>A responsive full-stack MERN matrimony platform with role-based access control (RBAC) and JWT-secured authentication.</p>
       <ul>
         <li><b>Frontend:</b> Ant Design, React.js, TanStack Query, Recharts.</li>
         <li><b>Backend, DB, Auth:</b> Node.js, Express.js, MongoDB, Firebase, and JWT</li>

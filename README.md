@@ -7,8 +7,8 @@
 
   <div align="left" style="width: 85%;">
     <br/>
-    <p style="font-size: 16px; line-height: 1.6;">I'm a <b>MERN Stack Developer</b> with expertise in building pixel-perfect, responsive, and production-ready web applications. I have 1.5+ years of experience working remotely in a software agency, Lexaeon (NY, USA).</p>
-    <p style="font-size: 16px; line-height: 1.6;">Having hands-on experience creating modern, scalable, high-performant web applications using <b> React.js, Next.js and TypeScript, </b> closely aligning with UI/UX details. I built and maintained modern front-end features with a strong focus on performance, scalability, maintainability, and cross-browser compatibility. I worked closely with design and backend teams in a remote environment to integrate RESTful APIs that connect React components to backend services.
+    <p style="font-size: 16px; line-height: 1.6;">I'm a <b>Software Developer</b> with expertise in building modern, responsive, and production-ready web applications. I have 1.5+ years of experience working remotely in a software agency, Lexaeon (NY, USA).</p>
+    <p style="font-size: 16px; line-height: 1.6;">Having hands-on experience creating scalable, high-performant web applications using <b> React.js, Next.js and TypeScript, </b> closely aligning with UI/UX details. I built and maintained modern front-end features with a strong focus on performance, scalability, maintainability, and cross-browser compatibility. I worked closely with design and backend teams in a remote environment to integrate RESTful APIs that connect React components to backend services.
 .</p>
     <p style="font-size: 16px; line-height: 1.6;">Now, I'm exploring new opportunities and always learning something new! ✨</p>
     <br/>
@@ -25,42 +25,52 @@
   </a>
 </div>
 
-<p style="display: flex; justify-content:center" align="center">
-  <kbd style="padding: 5px 20px">
-    <kbd style="font-size: 24px; padding: 10px; margin: 10px auto">Front-end</kbd>
-    <br>
-    <br>
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" /> 
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" /> 
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React.js" />
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next.js" />
-    <img width="40px" src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" title="TanStack Query" />
-    <img width="40px" src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/favicon.ico" title="Zustand" />
-  </kbd>
-  <kbd style="padding: 5px 20px; margin:0 30px">
-    <kbd style="font-size: 24px; padding: 10px; margin: 10px auto">Back-end & DB</kbd>
-    <br>
-    <br>
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" />
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="Express.js" />
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" />
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" title="Firebase" />
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" title="Supabase" />
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" title="GraphQL" />
-  </kbd>
-  <kbd style="padding: 5px 20px">
-    <kbd style="font-size: 24px; padding: 10px; margin: 10px auto">Tools</kbd>
-    <br>
-    <br>
-    <img width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" /> 
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" />
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" title="WordPress" /> 
-  </kbd>
-  <br>
-</p>
+<div align="center">
+  <table align="center" style="width: 100%; max-width: 1000px; margin: auto; border-collapse: collapse; text-align: center;">
+    <tr>
+      <th align="center">Frontend</th>
+      <th align="center">Backend</th>
+      <th align="center">Database</th>
+      <th align="center">Others</th>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tanstack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+        <img src="https://img.shields.io/badge/Motion-FF0080?style=for-the-badge&logo=framer&logoColor=white" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-02303A?style=for-the-badge&logo=json&logoColor=white" />
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 

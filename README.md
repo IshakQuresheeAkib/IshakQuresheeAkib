@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="220" align="right" alt="Tech Stack floating">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1yeDkwemM4MW11MTR3NHpodnMyaW84M3lxZnl5ZGowNHQ4NTY4biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/M4NykXxUE0HAcK7UJ6/giphy.gif" width="220" align="right" alt="Tech Stack floating">
 
   <div align="left" style="width: 85%;">
     <br/>
@@ -120,11 +120,11 @@
 <table width="90%" style="border-collapse: collapse; background: rgba(249, 121, 77, 0.05); backdrop-filter: blur(10px); border: 1px solid #5795CC; border-radius: 10px;" align="center">
   <tr>
     <td width="70%">
-      <h3 style="color:#5795CC;">💑 1. Concord</h3>
-      <p>A responsive matrimony website allowing users to explore and choose their life partner.</p>
+      <h3 style="color:#5795CC;">💍 1. Concord — Matrimony Platform (MERN Stack)</h3>
+      <p>A responsive full-stack MERN matrimony platform with role-based access control (RBAC) with JWT-secured authentication.</p>
       <ul>
         <li><b>Frontend:</b> Ant Design, React.js, TanStack Query, Recharts.</li>
-        <li><b>Backend,DB, Auth:</b> Node.js, Express.js, MongoDB, Firebase, and JWT</li>
+        <li><b>Backend, DB, Auth:</b> Node.js, Express.js, MongoDB, Firebase, and JWT</li>
       </ul>
       <a href="https://assignment-12-847d7.web.app"><img src="https://img.shields.io/badge/Live%20Demo-%E2%9C%A8-5795CC?style=for-the-badge"/></a>
       <a href="https://github.com/IshakQuresheeAkib/concord"><img src="https://img.shields.io/badge/Client_Repo-Code-5795CC?style=for-the-badge"/></a>
@@ -139,17 +139,17 @@
 <table width="90%" style="border-collapse: collapse; background: rgba(87, 149, 204, 0.05); backdrop-filter: blur(10px); border: 1px solid #5795CC; border-radius: 10px;" align="center">
   <tr>
     <td width="30%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="220" alt="Coding Vibe">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tsOGJhYnRqNm96cDM0OXcxMTJ3ZmF0MGdwZnoxbjM4YzZ0M2lraiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="220" alt="Coding Vibe">
     </td>
     <td width="70%">
-      <h3 style="color:#5795CC;">🚗 2. Car Canvas</h3>
-      <p>A platform where users can explore a wide array of cars from leading global brands globally.</p>
+      <h3 style="color:#5795CC;">📅 2. Queue Manager — Appointment Scheduling App</h3>
+      <p>This Next.js and TypeScript app handles smart scheduling, staff assignments, and booking conflicts. It uses Supabase for the database with Row Level Security (RLS) policies, secure user logins, and real time updates.</p>
       <ul>
-        <li><b>Frontend:</b> Material Tailwind, React.js</li>
-        <li><b>Backend/DB:</b> Node.js, Express.js, MongoDB</li>
+        <li><b>Frontend:</b> Tailwind CSS, Framer Motion, React js, Next.js, TypeScript</li>
+        <li><b>Backend, DB, Auth:</b> Supabase (PostgreSQL + RLS)</li>
       </ul>
-      <a href="https://car-canvas.web.app"><img src="https://img.shields.io/badge/Live%20Demo-%E2%9C%A8-5795CC?style=for-the-badge"/></a>
-      <a href="https://github.com/IshakQuresheeAkib/car-canvas"><img src="https://img.shields.io/badge/Client_Repo-Code-5795CC?style=for-the-badge"/></a>
+      <a href="https://queue-manager-brown.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-%E2%9C%A8-5795CC?style=for-the-badge"/></a>
+      <a href="https://github.com/IshakQuresheeAkib/queue-manager"><img src="https://img.shields.io/badge/Client_Repo-Code-5795CC?style=for-the-badge"/></a>
     </td>
   </tr>
 </table>
@@ -159,17 +159,17 @@
 <table width="90%" style="border-collapse: collapse; background: rgba(87, 149, 204, 0.05); backdrop-filter: blur(10px); border: 1px solid #5795CC; border-radius: 10px;" align="center">
   <tr>
     <td width="70%">
-      <h3 style="color:#5795CC;">🍲 3. NourishNet</h3>
+      <h3 style="color:#5795CC;">🍜 3. NourishNet — Food Sharing Web Application</h3>
       <p>A community food sharing and surplus reduction platform with donation management features.</p>
       <ul>
-        <li><b>Frontend:</b> DaisyUI, React.js</li>
-        <li><b>Backend/DB:</b> Node.js, Express.js, MongoDB</li>
+        <li><b>Frontend:</b> DaisyUI, React.js, TanStack Query</li>
+        <li><b>Backend, DB, Auth:</b> Node.js, Express.js, Firebase, MongoDB</li>
       </ul>
       <a href="https://nourish-net.web.app/"><img src="https://img.shields.io/badge/Live%20Demo-%E2%9C%A8-5795CC?style=for-the-badge"/></a>
       <a href="https://github.com/IshakQuresheeAkib/nourish-net"><img src="https://img.shields.io/badge/Client_Repo-Code-5795CC?style=for-the-badge"/></a>
     </td>
     <td width="30%" align="center">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="200" alt="Web Dev">
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200" alt="Web Dev">
     </td>
   </tr>
 </table>

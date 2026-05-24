@@ -123,8 +123,8 @@
       <h3 style="color:#5795CC;">💑 1. Concord</h3>
       <p>A responsive matrimony website allowing users to explore and choose their life partner.</p>
       <ul>
-        <li><b>Frontend:</b> Ant Design, React.js</li>
-        <li><b>Backend/DB:</b> Node.js, Express.js, MongoDB</li>
+        <li><b>Frontend:</b> Ant Design, React.js, TanStack Query, Recharts.</li>
+        <li><b>Backend,DB, Auth:</b> Node.js, Express.js, MongoDB, Firebase, and JWT</li>
       </ul>
       <a href="https://assignment-12-847d7.web.app"><img src="https://img.shields.io/badge/Live%20Demo-%E2%9C%A8-5795CC?style=for-the-badge"/></a>
       <a href="https://github.com/IshakQuresheeAkib/concord"><img src="https://img.shields.io/badge/Client_Repo-Code-5795CC?style=for-the-badge"/></a>

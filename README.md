@@ -113,12 +113,12 @@
         A production apparel commerce platform for a brand based in Sylhet, supporting nationwide delivery across all 64 districts of Bangladesh. I worked directly with the owner to convert a business concept into a live commerce platform. I led requirement analysis, user journey design, full-stack development, SEO, web performance, and deployment.
       </p>
       <ul>
-        <li><b>Fraud-Resistant Checkout:</b> Requires advance delivery fee verification via tokenized bKash to stop cash-on-delivery return fraud.</li>
-        <li><b>High Performance & Zero CLS:</b> Uses the Speculation Rules API for sub-second catalog prerendering and dedicated skeletons for stable page layout.</li>
-        <li><b>SEO & AI Discovery:</b> Implements Schema.org JSON-LD data (Product, Brand, FAQ), Open Graph metadata, and public <code>llms.txt</code> files.</li>
-        <li><b>Staff Operations:</b> Features an internal staff fulfillment dashboard, atomic order generation, and print-ready invoices.</li>
-        <li><b>Stack:</b> Next.js 16 (App Router), Express 5, MongoDB Atlas, bKash, Cloudinary, Linux VPS.</li>
-      </ul>
+  <li><b>Architecture & System Design:</b> Researched product requirements with the owner, drafted technical specifications, and built the full application with Next.js, Express, and MongoDB Atlas.</li>
+  <li><b>Performance & Core Web Vitals:</b> Optimized mobile speed using the Speculation Rules API for instant prerendering, layout skeletons to prevent CLS, and responsive Cloudinary images.</li>
+  <li><b>Technical SEO & Discovery:</b> Implemented Schema.org JSON-LD structured data, dynamic metadata, and public <code>llms.txt</code> files to support search engines and AI crawlers.</li>
+  <li><b>Secure Payments & Fraud Control:</b> Integrated a tokenized bKash checkout that requires advance delivery fee verification, stopping customer return fraud on cash-on-delivery orders.</li>
+  <li><b>Operations, Tracking & DevOps:</b> Built a staff dashboard for real-time inventory management, order processing, and invoice printing. Integrated server-side Meta Conversions API (CAPI) with event deduplication. Deployed the backend application on a Linux VPS.</li>
+</ul>
       <a href="https://minanclothing.com"><img src="https://img.shields.io/badge/Live_Storefront-%E2%9C%A8-974822?style=for-the-badge" alt="Storefront"/></a>
     </td>
     <td width="30%" align="center" style="padding: 20px;">
